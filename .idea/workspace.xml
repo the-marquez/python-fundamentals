@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e91a729-1a4c-49d7-82e7-ec17c29842f3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Fundamentals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000000000007" />
+      <entry key="S5" value="1.0000011471856969" />
+      <entry key="S10" value="1.0014944007237376" />
+      <entry key="S30" value="1.1837723713550503" />
+      <entry key="S60" value="1.7727467637808276" />
+      <entry key="M2" value="4.030112081117118" />
+      <entry key="M5" value="13.251142246432266" />
+      <entry key="M10" value="22.840796851902127" />
+      <entry key="M15" value="27.7948684653354" />
+      <entry key="M30" value="34.05612905757111" />
+      <entry key="H1" value="37.79019254049804" />
+      <entry key="H2" value="39.83177165637843" />
+      <entry key="H4" value="40.899544029220195" />
+      <entry key="D1" value="41.814276234994125" />
+      <entry key="W1" value="41.973410760378634" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="5.430835646622466E-234" />
+      <entry key="S2" value="4.830925901109706E-59" />
+      <entry key="S5" value="4.9762988227861094E-24" />
+      <entry key="S10" value="2.68281470801262E-12" />
+      <entry key="S30" value="2.1905091399931128E-4" />
+      <entry key="S60" value="0.026495280513396384" />
+      <entry key="M2" value="0.4208926064785161" />
+      <entry key="M5" value="3.0062797675198265" />
+      <entry key="M10" value="6.1611752793171926" />
+      <entry key="M15" value="7.8778284606455395" />
+      <entry key="M30" value="10.104515995962148" />
+      <entry key="H1" value="11.456914776479435" />
+      <entry key="H2" value="12.202968192254895" />
+      <entry key="H4" value="12.594892262361396" />
+      <entry key="D1" value="12.931547246263527" />
+      <entry key="W1" value="12.99019788659805" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.03794359013734521" />
+      <entry key="MS500" value="0.5197897175876394" />
+      <entry key="S2" value="0.8490962464468399" />
+      <entry key="S5" value="0.9366625105334473" />
+      <entry key="S10" value="0.9690752401048256" />
+      <entry key="S30" value="1.1636674254038317" />
+      <entry key="S60" value="1.7757352595291558" />
+      <entry key="M2" value="4.419103518875198" />
+      <entry key="M5" value="16.210861682478303" />
+      <entry key="M10" value="28.960048946857643" />
+      <entry key="M15" value="35.63816527059832" />
+      <entry key="M30" value="44.139163221836796" />
+      <entry key="H1" value="49.23509696092926" />
+      <entry key="H2" value="52.02838595167483" />
+      <entry key="H4" value="53.491167929437175" />
+      <entry key="D1" value="54.74526568292297" />
+      <entry key="W1" value="54.96352863638844" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3K2DGnaKxeSHh8OUvkejmavd2ur" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.app.executor": "Run",
+    "Python.use_system_module.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fundamentals" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e91a729-1a4c-49d7-82e7-ec17c29842f3" name="Changes" comment="" />
+      <created>1790746675730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790746675730</updated>
+      <workItem from="1790829898461" duration="98000" />
+      <workItem from="1791350195157" duration="1104000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Fundamentals$use_system_module.coverage" NAME="use_system_module Coverage Results" MODIFIED="1791351072969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
